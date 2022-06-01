@@ -9,4 +9,4 @@ To run the program you will have to have pygame installed in your machine.
 
 To do so, type: "pip install pygame" into the terminal.
 
-This is a test
+This is a test.
